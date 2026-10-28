@@ -7,6 +7,13 @@
   "img": "assets/images/products/137ac7620d6a0407.webp"
  },
  {
+  "_id": "YFQkJbigZpNIO63IZtAv",
+  "name": "عرض التين الأخضر الفاخر",
+  "desc": "بوكس 5 كيلو تين أخضر فاخر.",
+  "price": "3.500",
+  "img": "/assets/images/teen-3.jpg"
+ },
+ {
   "_id": "loesbyo7vHo9InRezI1g",
   "name": "عسل السدر الكويتي المميز",
   "desc": "500 غرام",
@@ -75,13 +82,6 @@
   "desc": "بوكس 8 كيلو تمر صقعي ملكي فاخر.",
   "price": "3.500",
   "img": "/assets/images/sakey-5.jpg"
- },
- {
-  "_id": "YFQkJbigZpNIO63IZtAv",
-  "name": "عرض التين الأخضر الفاخر",
-  "desc": "بوكس 5 كيلو تين أخضر فاخر.",
-  "price": "3.500",
-  "img": "/assets/images/teen-3.jpg"
  },
  {
   "_id": "aYLUz1zdzt7RWRkuyJlI",
